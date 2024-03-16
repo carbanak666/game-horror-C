@@ -439,7 +439,7 @@ if (strcmpIgnoreCase(inicio, "INICIAR") == 0) {
                 i++;
             }
 
-            printf("Bom... parece que você fez uma escolha ruim.. ate mais, é obrigado por jogar\n");
+            printf("Bom... parece que você fez uma escolha ruim.. ate mais, é obrigado por jogar %s\n", usuario);
 
          } else {
 
