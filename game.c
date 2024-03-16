@@ -420,10 +420,6 @@ if (strcmpIgnoreCase(inicio, "INICIAR") == 0) {
 
          if(strcmpIgnoreCase(parte10, "MORRER") == 0) {
 
-         // pega o usuario
-
-         char username[1024];
-         get_username(username);
 
           // limpa a tela
           limparTela();
@@ -438,6 +434,11 @@ if (strcmpIgnoreCase(inicio, "INICIAR") == 0) {
                 usleep(50000);
                 i++;
             }
+
+        // pega o usuario
+
+         char username[1024];
+         get_username(username);
 
             printf("Bom... parece que você fez uma escolha ruim.. ate mais, é obrigado por jogar %s\n", username);
 
