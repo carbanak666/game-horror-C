@@ -1,3 +1,15 @@
+/*
++=======================+
++CODIGO FEITO POR SOLDAT/CARBANAK+
++=======================+
+*/
+
+/*
++==============================+
++CODIGO TERMINADO NO DIA 15/03/2024+
++==============================+
+*/
+
 #include <stdio.h>
 #include <locale.h>
 #include <string.h>
