@@ -2,4 +2,4 @@
 
 ## Modo de Uso 📜
 
-Basta Compilar Usando O **Gcc/g++ Do Linux**, caso use Windows Use O **Dev-c++**. O Codigo Tem Suporte **Ambas Plataformas.**
+Basta Compilar Usando O **Gcc/g++ Do Linux**, caso use Windows Use O **Dev-c++ Ou Algum compilador**. O Codigo Tem Suporte **Ambas Plataformas.**
