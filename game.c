@@ -1,6 +1,6 @@
 /*
 +=======================+
-+CODIGO FEITO POR SOLDAT/CARBANAK+
++CODIGO FEITO POR CARBANAK+
 +=======================+
 */
 
